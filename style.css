@@ -94,6 +94,9 @@ h1 h2 h3{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.div{
+    height: 100%;
+}
 .backimg{
     width: 70%;
     
